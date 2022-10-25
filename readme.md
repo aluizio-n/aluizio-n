@@ -10,7 +10,7 @@
 
 ### It´s been 4 years until now that I'm studying programming (I really love study this btw) all by myself and watching free content of our community. 
 
-### Now I'm focusing my studies in Web Development, I hope get a job someday in this area.
+### Now I'm focusing my studies in Web Development, I hope get a job someday in this area ;)
 
 # 
 
