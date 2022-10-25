@@ -8,7 +8,7 @@
 
 ### I'm 22 years old, born and raised in Manaus city. By the day I hunt bugs as tester at Sidia Institute and by night I keep moving forward my studies about programming.
 
-### It´s been 4 years until now that I'm studying programming (I really love study this btw) all by myself and watching free content of our community. 
+### It´s been 4 years until now that I'm studying programming (I really love study this btw) all by myself and also watching free content of our community. 
 
 ### Now I'm focusing my studies in Web Development, I hope get a job someday in this area ;)
 
