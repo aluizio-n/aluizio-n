@@ -1,6 +1,7 @@
 # Aluizio N.
 
-# <img src="./img/sticker.png" width="200" height="200"/>
+# <div></a><a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"></a><a href = "mailto:aluizio.sln@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/aluizio-neto-63138b214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://instagram.com/aluizio.codes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> <a href="https://twitter.com/aluizio_n" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> </div>
+  <img src="./img/sticker.png" width="200" height="200"/>
 
 
 ## Hey, everyone!
