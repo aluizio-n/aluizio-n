@@ -6,7 +6,7 @@
 
 ## Hey, everyone!
 
-### I'm 23 years old, born and raised in Manaus city. By the day I hunt bugs as tester at Sidia Institute and by night I work as Web Developer at Libre Skate Park.
+### I'm 24 years old, born and raised in Manaus city. By the day I hunt bugs as tester at Sidia Institute and by night I work as Web Developer doing some freelancing jobs.
 
 ### It´s been 4 years until now that I'm studying programming (I really love study this btw) all by myself and also watching free content of our community.
 
