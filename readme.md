@@ -8,7 +8,10 @@ I'm a 25-year-old backend developer looking for my first opportunity in the fiel
 - ⚡ **Fastify**
 - 🛡 **Zod**
 - 🗄 **Prisma**
+- 🐍 **Python**
+- ⚗️ **Flask**
 - 🏛 **PostgreSQL**
+- 🍃 **MongoDB**
 - 📦 **Docker**
 
 ## 📚 What I'm Studying Right Now
