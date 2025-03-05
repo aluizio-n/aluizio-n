@@ -10,11 +10,12 @@ I'm a 25-year-old backend developer looking for my first opportunity in the fiel
 - 🗄 **Prisma**
 - 🐍 **Python**
 - ⚗️ **Flask**
-- 🏛 **PostgreSQL**
+- 🐘 **PostgreSQL**
 - 🍃 **MongoDB**
 - 📦 **Docker**
 
 ## 📚 What I'm Studying Right Now
+- 🧱 **SOLID**
 - 🏗 **Clean Architecture**
 - 🎯 **Domain-Driven Design (DDD)**
 - 🚀 **Deployment**
