@@ -17,6 +17,8 @@ I'm a 25-year-old backend developer looking for my first opportunity in the fiel
 ## 📚 What I'm Studying Right Now
 - 🏗 **Clean Architecture**
 - 🎯 **Domain-Driven Design (DDD)**
+- 🚀 **Deployment**
+- ☁️ **Cloud**
 
 Let's connect and build something awesome together! 🚀
 
