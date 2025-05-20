@@ -1,11 +1,13 @@
 # Hey everyone! 👋
 
 ## 🚀 About Me
-I'm a 25-year-old backend developer looking for my first opportunity in the field. I started studying backend development this year, and I'm absolutely loving it! Passionate about writing clean, efficient, and scalable code.
+I'm a passionate developer with 5 years of experience studying and coding. Over the years, I've built a variety of projects that reflect my journey through both frontend and backend development. My portfolio includes web applications, APIs, and UI-focused projects where I continuously challenge myself to learn new tools, write clean code, and deliver solid user experiences.
+I'm always looking to grow and collaborate on meaningful projects. Feel free to check out my repositories!
 
 ## 🛠 My Tech Stack
+- ⚛️ **Next.Js**
 - 🚀 **Node.js**
-- ⚡ **Fastify**
+- ⚡  **Fastify**
 - 🛡 **Zod**
 - 🗄 **Prisma**
 - 🐍 **Python**
@@ -22,5 +24,3 @@ I'm a 25-year-old backend developer looking for my first opportunity in the fiel
 - ☁️ **Cloud**
 
 Let's connect and build something awesome together! 🚀
-
-# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aluizio-n&show_icons=true&theme=radical)
