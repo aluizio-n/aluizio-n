@@ -2,7 +2,7 @@
 
 Backend developer. Python, Node, Docker.
 
-I like to create systems that actually works.
+I like to create systems that actually works :)
 
 <br/>
 
